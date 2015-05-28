@@ -1,0 +1,2 @@
+Single Page Application framework built using primarily Angular along with jQuery, Bootstrap, font-awesome and some
+other cool things. The framework is directly from the Pluralsight course "Building a SPA Framework Using AngularJS".
